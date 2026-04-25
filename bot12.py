@@ -45,7 +45,7 @@ Video aur hack APK neeche diya gaya hai 👇"""
         await context.bot.send_message(
             chat_id=user_id,
             text="""Loss recover karne ke liye message karlo mujhe aap 👇
-https://t.me/m/05BVLRHZZTU9"""
+https://t.me/m/x59DOH0UZDVl"""
         )
 
         # 🔊 VOICE LAST
